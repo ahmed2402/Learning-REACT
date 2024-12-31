@@ -5,13 +5,6 @@ import './App.css'
 
 function App() {
   const [count, setCount] = useState(10)
-  useEffect(() => {
-    
-    
-    
-  }, [])
-  
-
   return (
     <>
      <div>The count is {count}</div>
