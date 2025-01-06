@@ -24,7 +24,7 @@ function App() {
   return (
     <>
       <div className="button">
-        <button onClick={handleClick}>Click me</button>
+        <button onClick={handleClick}>Click me!</button>
       </div>
       {/* <div className="red" onMouseOver={handleMouseOver}>
         I am red div
